@@ -1,0 +1,13 @@
+{
+  "contributors":"https://raw.githubusercontent.com/samvera-labs/clabot-config/main/contributors.json",
+  "recheckComment":"CLA submitted, please recheck.",
+  "message":"Thanks for your contribution! Your Github username is not on our list of licensed contributors. We require all contributors to have a signed individual Contributor License Agreement (iCLA) on file with the Samvera Community.
+ 
+If you have previously filled out a PDF iCLA form but have not submitted your Github username, please send your username to legal@samvera.org.
+ 
+If you have never completed an iCLA, please complete and submit the form found here: https://dochub.com/samvera/ALzmZB7wMbWZ6WERX8J560/samvera-icla-pdf?dt=JFH9VZENHwW3JubkXb2p
+ 
+You will receive confirmation from Samvera within one business day.
+ 
+If you have any questions or issues please email legal@samvera.org. Thank you!"
+}
