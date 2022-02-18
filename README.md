@@ -8,3 +8,24 @@ and be added to the official roster, and then the contributors should be updated
 
 When a user has submitted a CLA and needs to have a PR re-checked, post a comment to the PR with
 the text `@cla-bot check` to trigger the bot.
+
+## update workflow
+1. checkout this repository locally:
+
+    ```git clone https://github.com/samvera-labs/cla-bot.git```
+
+2. update your local copy to get any updates made by others:
+
+    ```cd cla-bot; git pull```
+
+3. run the update-contributors.sh script
+
+    ```./update-contributors.sh```
+
+4. commit changes to your local copy:
+
+    ```git commit -am "updating contributors list"```
+
+5. push local changes up to github:
+
+    ```git push```
