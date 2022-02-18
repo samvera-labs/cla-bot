@@ -10,7 +10,7 @@ When a user has submitted a CLA and needs to have a PR re-checked, post a commen
 the text `@cla-bot check` to trigger the bot.
 
 ## update workflow
-1. checkout this repository locally:
+1. the first time you make an update, checkout this repository locally:
 
     ```git clone https://github.com/samvera-labs/cla-bot.git```
 
