@@ -26,6 +26,6 @@ the text `@cla-bot check` to trigger the bot.
 
     ```git commit -am "updating contributors list"```
 
-5. push local changes up to github:
+5. push local changes up to github (you may need to create a [personal access token](https://github.com/settings/tokens/new)):
 
     ```git push```
