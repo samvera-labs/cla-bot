@@ -1,3 +1,6 @@
+# note: this repository is no longer in use
+Samvera has stopped requiring CLAs, so this is no longer in use.
+
 # cla-bot config
 This repository is the configuration for [CLAbot](https://colineberhardt.github.io/cla-bot) for
 the Samvera Github organizations (`samvera` and `samvera-labs`). The list of allowed contributors
